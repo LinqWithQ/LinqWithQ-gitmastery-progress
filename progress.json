@@ -133,5 +133,14 @@
       "Missing lightweight tag \"first-pilot\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769118412.853357,
+    "completed_at": 1769118416.583105,
+    "comments": [
+      "\"v1.0\" should be an annotated tag, not a lightweight tag."
+    ],
+    "status": "Incomplete"
   }
 ]
