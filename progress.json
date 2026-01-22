@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769108610.703828,
+    "completed_at": 1769108612.634832,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769108860.756839,
+    "completed_at": 1769108864.647856,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769108909.542513,
+    "completed_at": 1769108913.22635,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  }
+]
