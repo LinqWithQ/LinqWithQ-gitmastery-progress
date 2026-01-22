@@ -70,59 +70,5 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114239.203065,
-    "completed_at": 1769114245.632512,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114320.507354,
-    "completed_at": 1769114326.152681,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114430.853238,
-    "completed_at": 1769114437.644044,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114662.988216,
-    "completed_at": 1769114669.049431,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114700.840343,
-    "completed_at": 1769114708.487688,
-    "comments": [
-      "The upstream remote does not point to the original repository!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769114750.415416,
-    "completed_at": 1769114757.335528,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
   }
 ]
